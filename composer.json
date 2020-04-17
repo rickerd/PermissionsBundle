@@ -1,11 +1,11 @@
 {
-    "name": "eloyekunle/permissions-bundle",
+    "name": "rickerd/permissions-bundle",
     "description": "A Simple Permission Management Bundle for Symfony",
     "type": "symfony-bundle",
     "keywords": ["User management"],
     "require": {
-        "php": "^5.5.9 || ^7.0",
-        "doctrine/doctrine-bundle": "^1.9",
+        "php": "^5.5.9 || ^7.2",
+        "doctrine/doctrine-bundle": "^2.0",
         "doctrine/orm": "^2.5 || ^2.6",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
         "symfony/form": "^2.7 || ^3.0 || ^4.0",
